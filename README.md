@@ -16,7 +16,7 @@ jangan lupa tambahkan hasil screenshoot web di dalam file
 
 ### Tambahkan identitas dasar di sini: 
 
-Nama  :
+Nama  : Taufiq Ahmad Maulana
 <br>
-NIM   :
+NIM   : 119140152
 
