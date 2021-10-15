@@ -1,0 +1,116 @@
+*{
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;    
+}
+body{
+    background-color: lightgray;
+}
+.container {
+    width: 960px;
+    margin: auto;
+    height: 1000px;
+    background-color:white;
+}
+
+.judul img{
+    width: 150px;
+    padding: 15px;
+}
+
+.judul h1{  
+    position:absolute;
+    margin-left: 200px;
+    margin-top: 75px;
+    font-size: 50px;
+} 
+
+.judul h2{  
+    position:absolute;
+    top: 70px;
+    margin-left: 200px;
+    font-size: 20px;
+    margin-top: 60px;
+}
+
+.navigasi{
+    height: 50px;
+    background-color: rgb(230, 169, 2);
+}
+
+.navigasi ul li{
+    display: inline-block;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    line-height: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 20px;
+}
+
+.navigasi ul li:hover{
+    background-color: rgb(8, 95, 124);
+}
+
+.main_konten img{
+    width: 200px;
+    height: 275px;
+    padding: 15px;
+}
+.h1{
+    text-align: center;
+    margin-top: 0px;
+    font-size: 50px;
+}
+.main{
+    float: left;
+     text-align: center;
+     width: 100%;   
+}
+.h3{
+    margin-block-end: 2px;
+}
+.p{
+    margin-block-start: 2px; 
+}
+
+.berita{
+    margin-top: 250px;
+    margin-right: 50px;
+    float: right;
+    font-family: 'Times New Roman', Times, serif;
+}
+.berita h1{
+    display: inline-block;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    line-height: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgb(230, 169, 2);
+}
+
+.berita ul li{
+    list-style: none;
+    font-size: 15px;
+    display: block;
+    background-color: white;
+    color: black;
+}
+.footer{
+    height: 70px;
+    background-color:rgb(230, 169, 2);
+    margin: auto;
+    width: 960px;
+}
+.footer h1{
+    font-size: 25px;
+    color: white; 
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
